@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<data>06-05-2015</data>
+
+<wady>
+    <wada id_wady="0">
+        <nazwa>zespół Downa</nazwa>
+        <opis>Zespół Downa to przede wszystkim odmienność biologiczna człowieka, którego natura wyposażyła w dodatkową informację genetyczną chromosomu 21. To ona właśnie modyfikuje rozwój i kształtuje cechy wyróżniające daną osobę pośród innych ludzi.</opis>
+        <prawdopodobienstwo wiekDol="20" wiekGora="29">
+            <wartosc>0.0006</wartosc>
+        </prawdopodobienstwo>
+		<prawdopodobienstwo wiekDol="30" wiekGora="34">
+            <wartosc>0.001</wartosc>
+        </prawdopodobienstwo>
+		<prawdopodobienstwo wiekDol="35" wiekGora="39">
+            <wartosc>0.0026</wartosc>
+        </prawdopodobienstwo>
+		<prawdopodobienstwo wiekDol="40" wiekGora="44">
+            <wartosc>0.0094</wartosc>
+        </prawdopodobienstwo>
+		<prawdopodobienstwo wiekDol="45" wiekGora="48">
+            <wartosc>0.033</wartosc>
+        </prawdopodobienstwo>
+		<prawdopodobienstwo wiekDol="49" wiekGora="00">
+            <wartosc>0.09</wartosc>
+        </prawdopodobienstwo>
+    </wada>
+	<wada id_wady="1">
+        <nazwa>Zespół Edwardsa</nazwa>
+        <opis>Jest to zespół wad wrodzonych spowodowanych trisomią w obrębie chromosomu 18. (trisomia chromosomu 18 – 47,XX + 18 lub 47, XY +18).</opis>
+        <prawdopodobienstwo wiekDol="20" wiekGora="29">
+            <wartosc>0.0009</wartosc>
+        </prawdopodobienstwo>
+		<prawdopodobienstwo wiekDol="30" wiekGora="34">
+            <wartosc>0.0014</wartosc>
+        </prawdopodobienstwo>
+		<prawdopodobienstwo wiekDol="35" wiekGora="39">
+            <wartosc>0.0026</wartosc>
+        </prawdopodobienstwo>
+		<prawdopodobienstwo wiekDol="40" wiekGora="44">
+            <wartosc>0.0094</wartosc>
+        </prawdopodobienstwo>
+		<prawdopodobienstwo wiekDol="45" wiekGora="48">
+            <wartosc>0.024</wartosc>
+        </prawdopodobienstwo>
+		<prawdopodobienstwo wiekDol="49" wiekGora="00">
+            <wartosc>0.048</wartosc>
+        </prawdopodobienstwo>
+    </wada>
+	<wada id_wady="2">
+        <nazwa>Zespół Patau</nazwa>
+        <opis>Zespół Pataua zespół wad wrodzonych spowodowany trisomią chromosomu 13(kariotyp 47, XX, +13 albo 47, XY, +13). Trisomia 13 spowodowana jest nierozejściem się chromosomów podczas I lub II podziału mejotycznego u któregoś z rodziców (opóźnione rozchodzenie się chromosomów w anafazie).</opis>
+        <prawdopodobienstwo wiekDol="20" wiekGora="29">
+            <wartosc>0.0006</wartosc>
+        </prawdopodobienstwo>
+		<prawdopodobienstwo wiekDol="30" wiekGora="34">
+            <wartosc>0.001</wartosc>
+        </prawdopodobienstwo>
+		<prawdopodobienstwo wiekDol="35" wiekGora="39">
+            <wartosc>0.0018</wartosc>
+        </prawdopodobienstwo>
+		<prawdopodobienstwo wiekDol="40" wiekGora="44">
+            <wartosc>0.0055</wartosc>
+        </prawdopodobienstwo>
+		<prawdopodobienstwo wiekDol="45" wiekGora="48">
+            <wartosc>0.033</wartosc>
+        </prawdopodobienstwo>
+		<prawdopodobienstwo wiekDol="49" wiekGora="00">
+            <wartosc>0.076</wartosc>
+        </prawdopodobienstwo>
+    </wada>
+	<wada id_wady="3">
+        <nazwa>Nieprawidłowość chromosomów płciowych</nazwa>
+        <opis>opis tej choroby</opis>
+        <prawdopodobienstwo wiekDol="20" wiekGora="29">
+            <wartosc>0.00062</wartosc>
+        </prawdopodobienstwo>
+		<prawdopodobienstwo wiekDol="30" wiekGora="34">
+            <wartosc>0.0009</wartosc>
+        </prawdopodobienstwo>
+		<prawdopodobienstwo wiekDol="35" wiekGora="39">
+            <wartosc>0.0034</wartosc>
+        </prawdopodobienstwo>
+		<prawdopodobienstwo wiekDol="40" wiekGora="44">
+            <wartosc>0.0067</wartosc>
+        </prawdopodobienstwo>
+		<prawdopodobienstwo wiekDol="45" wiekGora="48">
+            <wartosc>0.055</wartosc>
+        </prawdopodobienstwo>
+		<prawdopodobienstwo wiekDol="49" wiekGora="00">
+            <wartosc>0.077</wartosc>
+        </prawdopodobienstwo>
+    </wada>
+	<wada id_wady="4">
+        <nazwa>Zespół Turnera</nazwa>
+        <opis>opis tej choroby</opis>
+        <prawdopodobienstwo wiekDol="20" wiekGora="29">
+            <wartosc>0.0006</wartosc>
+        </prawdopodobienstwo>
+		<prawdopodobienstwo wiekDol="30" wiekGora="34">
+            <wartosc>0.001</wartosc>
+        </prawdopodobienstwo>
+		<prawdopodobienstwo wiekDol="35" wiekGora="39">
+            <wartosc>0.0026</wartosc>
+        </prawdopodobienstwo>
+		<prawdopodobienstwo wiekDol="40" wiekGora="44">
+            <wartosc>0.0094</wartosc>
+        </prawdopodobienstwo>
+		<prawdopodobienstwo wiekDol="45" wiekGora="48">
+            <wartosc>0.033</wartosc>
+        </prawdopodobienstwo>
+		<prawdopodobienstwo wiekDol="49" wiekGora="00">
+            <wartosc>0.09</wartosc>
+        </prawdopodobienstwo>
+    </wada>
+	<wada id_wady="5">
+        <nazwa>Zespół Klinefeltera</nazwa>
+        <opis>opis tej choroby</opis>
+        <prawdopodobienstwo wiekDol="20" wiekGora="29">
+            <wartosc>0.0002</wartosc>
+        </prawdopodobienstwo>
+		<prawdopodobienstwo wiekDol="30" wiekGora="34">
+            <wartosc>0.001</wartosc>
+        </prawdopodobienstwo>
+		<prawdopodobienstwo wiekDol="35" wiekGora="39">
+            <wartosc>0.0017</wartosc>
+        </prawdopodobienstwo>
+		<prawdopodobienstwo wiekDol="40" wiekGora="44">
+            <wartosc>0.0087</wartosc>
+        </prawdopodobienstwo>
+		<prawdopodobienstwo wiekDol="45" wiekGora="48">
+            <wartosc>0.032</wartosc>
+        </prawdopodobienstwo>
+		<prawdopodobienstwo wiekDol="49" wiekGora="00">
+            <wartosc>0.08</wartosc>
+        </prawdopodobienstwo>
+    </wada>
+</wady>
+
+<testy>
+	<test id_test="0">
+        <nazwa>Test potrójny</nazwa>
+        <opis>tak sie wykonuje ten test</opis>
+        <koszt_ryzyka>0.239</koszt_ryzyka>
+        <czulosc>0.8</czulosc>
+        <swoistosc>0.75</swoistosc>
+    </test>
+	<test id_test="1">
+        <nazwa>Test poczwórny</nazwa>
+        <opis>tak sie wykonuje ten test</opis>
+        <koszt_ryzyka>0.133</koszt_ryzyka>
+        <czulosc>0.68</czulosc>
+        <swoistosc>0.75</swoistosc>
+    </test>
+	<test id_test="2">
+        <nazwa>AFP/badanie wolnej beta hCG</nazwa>
+        <opis>tak sie wykonuje ten test</opis>
+        <koszt_ryzyka>0.342</koszt_ryzyka>
+        <czulosc>0.77</czulosc>
+        <swoistosc>0.9</swoistosc>
+    </test>
+	<test id_test="3">
+        <nazwa>badanie USG</nazwa>
+        <opis>tak sie wykonuje ten test</opis>
+        <koszt_ryzyka>0.002</koszt_ryzyka>
+        <czulosc>0.55</czulosc>
+        <swoistosc>0.87</swoistosc>
+    </test>
+	<test id_test="4">
+        <nazwa>Testy biochemiczne</nazwa>
+        <opis>tak sie wykonuje ten test</opis>
+        <koszt_ryzyka>0.425</koszt_ryzyka>
+        <czulosc>0.82</czulosc>
+        <swoistosc>0.78</swoistosc>
+    </test>
+	<test id_test="5">
+        <nazwa>Przezierność karkowa/badanie wolnej hCG/PAPPA</nazwa>
+        <opis>tak sie wykonuje ten test</opis>
+        <koszt_ryzyka>0.395</koszt_ryzyka>
+        <czulosc>0.93</czulosc>
+        <swoistosc>0.62</swoistosc>
+    </test>
+</testy>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Plik testowy-->
+<wady>
+  <wada nazwa="Zespół Downa">
+    <opis>opis wady</opis>
+    <prawdopodobienstwa>
+      <prawd>0.0654</prawd>
+      <prawd>0.0654</prawd>
+      <prawd>0.0654</prawd>
+      <prawd>0.0654</prawd>
+      <prawd>0.0654</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.11</prawd>
+      <prawd>0.1256</prawd>
+      <prawd>0.1464</prawd>
+      <prawd>0.1742</prawd>
+      <prawd>0.211</prawd>
+      <prawd>0.2604</prawd>
+      <prawd>0.3257</prawd>
+      <prawd>0.4132</prawd>
+      <prawd>0.5291</prawd>
+      <prawd>0.6849</prawd>
+      <prawd>0.8929</prawd>
+      <prawd>1.1765</prawd>
+      <prawd>1.5385</prawd>
+      <prawd>2.0408</prawd>
+      <prawd>2.7027</prawd>
+      <prawd>3.5714</prawd>
+      <prawd>-1</prawd>
+      <prawd>-1</prawd>
+      <prawd>-1</prawd>
+      <prawd>-1</prawd>
+      <prawd>-1</prawd>
+    </prawdopodobienstwa>
+  </wada>
+</wady>

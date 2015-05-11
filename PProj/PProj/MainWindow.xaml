@@ -10,7 +10,7 @@
             <ListBox.ItemTemplate>
                 <DataTemplate>
                     <StackPanel Orientation="Horizontal">
-                        <TextBlock Text="{Binding Nazwa_wady}" Width="290" />
+                        <TextBlock Text="{Binding Nazwa_wady}" Width="300" />
                         <TextBlock Text="{Binding Prawdopodobienstwo_wady}" />
                         <TextBlock Text="%" />
                     </StackPanel>

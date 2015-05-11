@@ -1,0 +1,32 @@
+﻿<Window x:Class="PProj.Nowy_test"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Nowy test" Height="200" Width="200" ResizeMode="NoResize" >
+    <Grid>
+        <ComboBox Height="23" HorizontalAlignment="Left" Margin="12,12,0,0" Name="comboBox1" VerticalAlignment="Top" Width="154" >
+            <ComboBoxItem>
+                <TextBlock Text="Test potrójny" />
+            </ComboBoxItem>
+            <ComboBoxItem>
+                <TextBlock Text="Test poczwórny" />
+            </ComboBoxItem>
+            <ComboBoxItem>
+                <TextBlock Text="AFP/badanie wolnej beta hCG" />
+            </ComboBoxItem>
+            <ComboBoxItem>
+                <TextBlock Text="Przezierność karkowa/badanie wolnej jednostki beta hCG/PAPPA" />
+            </ComboBoxItem>
+            <ComboBoxItem>
+                <TextBlock Text="badanie USG" />
+            </ComboBoxItem>
+            <ComboBoxItem>
+                <TextBlock Text="testy biochemiczne" />
+            </ComboBoxItem>
+        </ComboBox>
+        <Label Content="Wynik:" Height="28" HorizontalAlignment="Left" Margin="12,41,0,0" Name="label1" VerticalAlignment="Top" />
+        <Button Content="OK" Height="23" HorizontalAlignment="Left" Margin="93,126,0,0" Name="button1" VerticalAlignment="Top" Width="73" Click="button_OK_Click" />
+        <RadioButton Content="Pozytywny" Height="16" HorizontalAlignment="Left" Margin="60,61,0,0" Name="radioButton1" VerticalAlignment="Top" />
+        <RadioButton Content="Negatywny" Height="16" HorizontalAlignment="Left" Margin="60,83,0,0" Name="radioButton2" VerticalAlignment="Top" />
+        <Button Content="Anuluj" Height="23" HorizontalAlignment="Left" Margin="12,126,0,0" Name="button2" VerticalAlignment="Top" Width="75" Click="button_Anuluj_Click" />
+    </Grid>
+</Window>

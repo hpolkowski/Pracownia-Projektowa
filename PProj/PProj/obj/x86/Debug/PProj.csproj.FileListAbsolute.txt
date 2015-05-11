@@ -1,0 +1,15 @@
+K:\Szkoła\Pracownia Projektowa\PProj\PProj\bin\Debug\PProj.exe
+K:\Szkoła\Pracownia Projektowa\PProj\PProj\bin\Debug\PProj.pdb
+K:\Szkoła\Pracownia Projektowa\PProj\PProj\obj\x86\Debug\PProj.csprojResolveAssemblyReference.cache
+K:\Szkoła\Pracownia Projektowa\PProj\PProj\obj\x86\Debug\Nowy test.baml
+K:\Szkoła\Pracownia Projektowa\PProj\PProj\obj\x86\Debug\MainWindow.g.cs
+K:\Szkoła\Pracownia Projektowa\PProj\PProj\obj\x86\Debug\Nowy test.g.cs
+K:\Szkoła\Pracownia Projektowa\PProj\PProj\obj\x86\Debug\App.g.cs
+K:\Szkoła\Pracownia Projektowa\PProj\PProj\obj\x86\Debug\PProj_MarkupCompile.cache
+K:\Szkoła\Pracownia Projektowa\PProj\PProj\obj\x86\Debug\PProj_MarkupCompile.lref
+K:\Szkoła\Pracownia Projektowa\PProj\PProj\obj\x86\Debug\MainWindow.baml
+K:\Szkoła\Pracownia Projektowa\PProj\PProj\obj\x86\Debug\PProj.g.resources
+K:\Szkoła\Pracownia Projektowa\PProj\PProj\obj\x86\Debug\PProj.Properties.Resources.resources
+K:\Szkoła\Pracownia Projektowa\PProj\PProj\obj\x86\Debug\PProj.csproj.GenerateResource.Cache
+K:\Szkoła\Pracownia Projektowa\PProj\PProj\obj\x86\Debug\PProj.exe
+K:\Szkoła\Pracownia Projektowa\PProj\PProj\obj\x86\Debug\PProj.pdb

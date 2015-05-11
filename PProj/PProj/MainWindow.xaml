@@ -1,0 +1,24 @@
+﻿<Window x:Class="PProj.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:src="clr-namespace:PProj"
+        Title="Szacowanie ryzyka wad płodu" Height="500" Width="400" ResizeMode="NoResize">
+    <Grid>        
+        <Label Content="Wiek =" Height="28" HorizontalAlignment="Left" Margin="12,10,0,0" Name="label1" VerticalAlignment="Top" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="56,12,0,0" Name="textBox_wiek" VerticalAlignment="Top" Width="120" TextChanged="textBox_wiek_TextChanged" />
+        <ListBox Height="378" HorizontalAlignment="Left" Margin="12,44,0,0" Name="listBox" VerticalAlignment="Top" Width="354" >
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="{Binding Nazwa_wady}" Width="290" />
+                        <TextBlock Text="{Binding Prawdopodobienstwo_wady}" />
+                        <TextBlock Text="%" />
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <Button Content="Dodaj test" Height="23" HorizontalAlignment="Right" Margin="0,426,12,0" Name="button1" VerticalAlignment="Top" Width="100" Click="button_Nowy_Click" />
+        <Button Content="Zamknij" Height="23" HorizontalAlignment="Left" Margin="12,426,0,0" Name="button2" VerticalAlignment="Top" Width="100" Click="button_Zamknij_Click" />
+        <Label Content="w przedziale od 20 do 45" HorizontalAlignment="Left" Margin="181,10,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

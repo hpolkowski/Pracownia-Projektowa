@@ -33,3 +33,18 @@ C:\Users\jAANUSZEK0700\Desktop\Wady_v02\PProj\PProj\obj\x86\Debug\PProj.csproj.G
 C:\Users\jAANUSZEK0700\Desktop\Wady_v02\PProj\PProj\obj\x86\Debug\PProj.exe
 C:\Users\jAANUSZEK0700\Documents\GitHub\Pracownia-Projektowa\PProj\PProj\obj\x86\Debug\PProj.exe
 C:\Users\jAANUSZEK0700\Documents\GitHub\Pracownia-Projektowa\PProj\PProj\obj\x86\Debug\PProj.pdb
+C:\Users\Daniel\Documents\Pracownia-Projektowa\PProj\PProj\obj\x86\Debug\PProj.exe
+C:\Users\Daniel\Documents\Pracownia-Projektowa\PProj\PProj\obj\x86\Debug\PProj.pdb
+C:\Users\Daniel\Documents\Pracownia-Projektowa\PProj\PProj\bin\Debug\PProj.exe
+C:\Users\Daniel\Documents\Pracownia-Projektowa\PProj\PProj\bin\Debug\PProj.pdb
+C:\Users\Daniel\Documents\Pracownia-Projektowa\PProj\PProj\obj\x86\Debug\PProj.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Pracownia-Projektowa\PProj\PProj\obj\x86\Debug\Nowy test.baml
+C:\Users\Daniel\Documents\Pracownia-Projektowa\PProj\PProj\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Daniel\Documents\Pracownia-Projektowa\PProj\PProj\obj\x86\Debug\Nowy test.g.cs
+C:\Users\Daniel\Documents\Pracownia-Projektowa\PProj\PProj\obj\x86\Debug\App.g.cs
+C:\Users\Daniel\Documents\Pracownia-Projektowa\PProj\PProj\obj\x86\Debug\PProj_MarkupCompile.cache
+C:\Users\Daniel\Documents\Pracownia-Projektowa\PProj\PProj\obj\x86\Debug\PProj_MarkupCompile.lref
+C:\Users\Daniel\Documents\Pracownia-Projektowa\PProj\PProj\obj\x86\Debug\MainWindow.baml
+C:\Users\Daniel\Documents\Pracownia-Projektowa\PProj\PProj\obj\x86\Debug\PProj.g.resources
+C:\Users\Daniel\Documents\Pracownia-Projektowa\PProj\PProj\obj\x86\Debug\PProj.Properties.Resources.resources
+C:\Users\Daniel\Documents\Pracownia-Projektowa\PProj\PProj\obj\x86\Debug\PProj.csproj.GenerateResource.Cache

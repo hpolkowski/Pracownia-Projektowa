@@ -77,8 +77,12 @@ namespace PProj
             InitializeComponent();
             listBox.ItemsSource = lista;
             downloader = new FileDownloader("212.33.90.100", "wi90302", "KRtq97Cr");
-            downloader.download("plody/baza.xml", "baza.xml");
             uzupelnij();
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+//                            Change first param to date readed from local file
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++            
+            if (downloader.shouldDownloadUpdate("2015-04-20", "plody/baza.xml"))
+                downloader.download("plody/baza.xml", "baza.xml");
         }
 
         private void button_Nowy_Click(object sender, RoutedEventArgs e)

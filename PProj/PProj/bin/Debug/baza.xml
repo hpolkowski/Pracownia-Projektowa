@@ -1,183 +1,754 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<data>06-05-2015</data>
-
-<wady>
-    <wada id_wady="0">
-        <nazwa>zespół Downa</nazwa>
-        <opis>Zespół Downa to przede wszystkim odmienność biologiczna człowieka, którego natura wyposażyła w dodatkową informację genetyczną chromosomu 21. To ona właśnie modyfikuje rozwój i kształtuje cechy wyróżniające daną osobę pośród innych ludzi.</opis>
-        <prawdopodobienstwo wiekDol="20" wiekGora="29">
-            <wartosc>0.0006</wartosc>
-        </prawdopodobienstwo>
-		<prawdopodobienstwo wiekDol="30" wiekGora="34">
-            <wartosc>0.001</wartosc>
-        </prawdopodobienstwo>
-		<prawdopodobienstwo wiekDol="35" wiekGora="39">
-            <wartosc>0.0026</wartosc>
-        </prawdopodobienstwo>
-		<prawdopodobienstwo wiekDol="40" wiekGora="44">
-            <wartosc>0.0094</wartosc>
-        </prawdopodobienstwo>
-		<prawdopodobienstwo wiekDol="45" wiekGora="48">
-            <wartosc>0.033</wartosc>
-        </prawdopodobienstwo>
-		<prawdopodobienstwo wiekDol="49" wiekGora="00">
-            <wartosc>0.09</wartosc>
-        </prawdopodobienstwo>
-    </wada>
-	<wada id_wady="1">
-        <nazwa>Zespół Edwardsa</nazwa>
-        <opis>Jest to zespół wad wrodzonych spowodowanych trisomią w obrębie chromosomu 18. (trisomia chromosomu 18 – 47,XX + 18 lub 47, XY +18).</opis>
-        <prawdopodobienstwo wiekDol="20" wiekGora="29">
-            <wartosc>0.0009</wartosc>
-        </prawdopodobienstwo>
-		<prawdopodobienstwo wiekDol="30" wiekGora="34">
-            <wartosc>0.0014</wartosc>
-        </prawdopodobienstwo>
-		<prawdopodobienstwo wiekDol="35" wiekGora="39">
-            <wartosc>0.0026</wartosc>
-        </prawdopodobienstwo>
-		<prawdopodobienstwo wiekDol="40" wiekGora="44">
-            <wartosc>0.0094</wartosc>
-        </prawdopodobienstwo>
-		<prawdopodobienstwo wiekDol="45" wiekGora="48">
-            <wartosc>0.024</wartosc>
-        </prawdopodobienstwo>
-		<prawdopodobienstwo wiekDol="49" wiekGora="00">
-            <wartosc>0.048</wartosc>
-        </prawdopodobienstwo>
-    </wada>
-	<wada id_wady="2">
-        <nazwa>Zespół Patau</nazwa>
-        <opis>Zespół Pataua zespół wad wrodzonych spowodowany trisomią chromosomu 13(kariotyp 47, XX, +13 albo 47, XY, +13). Trisomia 13 spowodowana jest nierozejściem się chromosomów podczas I lub II podziału mejotycznego u któregoś z rodziców (opóźnione rozchodzenie się chromosomów w anafazie).</opis>
-        <prawdopodobienstwo wiekDol="20" wiekGora="29">
-            <wartosc>0.0006</wartosc>
-        </prawdopodobienstwo>
-		<prawdopodobienstwo wiekDol="30" wiekGora="34">
-            <wartosc>0.001</wartosc>
-        </prawdopodobienstwo>
-		<prawdopodobienstwo wiekDol="35" wiekGora="39">
-            <wartosc>0.0018</wartosc>
-        </prawdopodobienstwo>
-		<prawdopodobienstwo wiekDol="40" wiekGora="44">
-            <wartosc>0.0055</wartosc>
-        </prawdopodobienstwo>
-		<prawdopodobienstwo wiekDol="45" wiekGora="48">
-            <wartosc>0.033</wartosc>
-        </prawdopodobienstwo>
-		<prawdopodobienstwo wiekDol="49" wiekGora="00">
-            <wartosc>0.076</wartosc>
-        </prawdopodobienstwo>
-    </wada>
-	<wada id_wady="3">
-        <nazwa>Nieprawidłowość chromosomów płciowych</nazwa>
-        <opis>opis tej choroby</opis>
-        <prawdopodobienstwo wiekDol="20" wiekGora="29">
-            <wartosc>0.00062</wartosc>
-        </prawdopodobienstwo>
-		<prawdopodobienstwo wiekDol="30" wiekGora="34">
-            <wartosc>0.0009</wartosc>
-        </prawdopodobienstwo>
-		<prawdopodobienstwo wiekDol="35" wiekGora="39">
-            <wartosc>0.0034</wartosc>
-        </prawdopodobienstwo>
-		<prawdopodobienstwo wiekDol="40" wiekGora="44">
-            <wartosc>0.0067</wartosc>
-        </prawdopodobienstwo>
-		<prawdopodobienstwo wiekDol="45" wiekGora="48">
-            <wartosc>0.055</wartosc>
-        </prawdopodobienstwo>
-		<prawdopodobienstwo wiekDol="49" wiekGora="00">
-            <wartosc>0.077</wartosc>
-        </prawdopodobienstwo>
-    </wada>
-	<wada id_wady="4">
-        <nazwa>Zespół Turnera</nazwa>
-        <opis>opis tej choroby</opis>
-        <prawdopodobienstwo wiekDol="20" wiekGora="29">
-            <wartosc>0.0006</wartosc>
-        </prawdopodobienstwo>
-		<prawdopodobienstwo wiekDol="30" wiekGora="34">
-            <wartosc>0.001</wartosc>
-        </prawdopodobienstwo>
-		<prawdopodobienstwo wiekDol="35" wiekGora="39">
-            <wartosc>0.0026</wartosc>
-        </prawdopodobienstwo>
-		<prawdopodobienstwo wiekDol="40" wiekGora="44">
-            <wartosc>0.0094</wartosc>
-        </prawdopodobienstwo>
-		<prawdopodobienstwo wiekDol="45" wiekGora="48">
-            <wartosc>0.033</wartosc>
-        </prawdopodobienstwo>
-		<prawdopodobienstwo wiekDol="49" wiekGora="00">
-            <wartosc>0.09</wartosc>
-        </prawdopodobienstwo>
-    </wada>
-	<wada id_wady="5">
-        <nazwa>Zespół Klinefeltera</nazwa>
-        <opis>opis tej choroby</opis>
-        <prawdopodobienstwo wiekDol="20" wiekGora="29">
-            <wartosc>0.0002</wartosc>
-        </prawdopodobienstwo>
-		<prawdopodobienstwo wiekDol="30" wiekGora="34">
-            <wartosc>0.001</wartosc>
-        </prawdopodobienstwo>
-		<prawdopodobienstwo wiekDol="35" wiekGora="39">
-            <wartosc>0.0017</wartosc>
-        </prawdopodobienstwo>
-		<prawdopodobienstwo wiekDol="40" wiekGora="44">
-            <wartosc>0.0087</wartosc>
-        </prawdopodobienstwo>
-		<prawdopodobienstwo wiekDol="45" wiekGora="48">
-            <wartosc>0.032</wartosc>
-        </prawdopodobienstwo>
-		<prawdopodobienstwo wiekDol="49" wiekGora="00">
-            <wartosc>0.08</wartosc>
-        </prawdopodobienstwo>
-    </wada>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Plik testowy-->
+<wady data="2015-06-20">
+  <wada nazwa="Zespół Downa">
+    <opis>Osoby z tą wadą mają mongoidalne rysy twarzy, 
+niski wzrost, szczególny układ bruzd na dłoniach, 
+niezborność ruchów i niedorozwój umysłowy, a przy 
+tym pogodne usposobienie. Zespół Downa wykrywa się 
+metodami diagnostyki prenatalnej.</opis>
+    <prawdopodobienstwa>
+      <prawd>0.0654</prawd>
+      <prawd>0.0654</prawd>
+      <prawd>0.0654</prawd>
+      <prawd>0.0654</prawd>
+      <prawd>0.0654</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.11</prawd>
+      <prawd>0.1256</prawd>
+      <prawd>0.1464</prawd>
+      <prawd>0.1742</prawd>
+      <prawd>0.211</prawd>
+      <prawd>0.2604</prawd>
+      <prawd>0.3257</prawd>
+      <prawd>0.4132</prawd>
+      <prawd>0.5291</prawd>
+      <prawd>0.6849</prawd>
+      <prawd>0.8929</prawd>
+      <prawd>1.1765</prawd>
+      <prawd>1.5385</prawd>
+      <prawd>2.0408</prawd>
+      <prawd>2.7027</prawd>
+      <prawd>3.5714</prawd>
+      <prawd>3.6241</prawd>
+      <prawd>3.7000</prawd>
+      <prawd>3.7021</prawd>
+      <prawd>3.7500</prawd>
+      <prawd>3.9000</prawd>
+    </prawdopodobienstwa>
+  </wada>
+  <wada nazwa="Zespół Edwardsa">
+    <opis>Powoduje niedorozwój umysłowy. Prowadzi 
+do śmierci we wczesnym dzieciństwie z powodu 
+poważnych nieprawidłowości w budowie wewnętrznej 
+(m.in. niezrośnięty otwór międzyprzedsionkowy).</opis>
+    <prawdopodobienstwa>
+      <prawd>0.0045</prawd>
+      <prawd>0.0150</prawd>
+      <prawd>0.0320</prawd>
+      <prawd>0.0621</prawd>
+      <prawd>0.0659</prawd>
+      <prawd>0.07</prawd>
+      <prawd>0.076</prawd>
+      <prawd>0.0741</prawd>
+      <prawd>0.0768</prawd>
+      <prawd>0.0790</prawd>
+      <prawd>0.1</prawd>
+      <prawd>0.23</prawd>
+      <prawd>0.2514</prawd>
+      <prawd>0.2568</prawd>
+      <prawd>0.2700</prawd>
+      <prawd>0.3</prawd>
+      <prawd>0.32</prawd>
+      <prawd>0.3804</prawd>
+      <prawd>0.3841</prawd>
+      <prawd>0.4165</prawd>
+      <prawd>0.5984</prawd>
+      <prawd>0.6842</prawd>
+      <prawd>0.7598</prawd>
+      <prawd>1.2014</prawd>
+      <prawd>1.3584</prawd>
+      <prawd>1.4521</prawd>
+      <prawd>1.6842</prawd>
+      <prawd>1.7854</prawd>
+      <prawd>1.9875</prawd>
+      <prawd>2.4875</prawd>
+      <prawd>2.6845</prawd>
+    </prawdopodobienstwa>
+  </wada>
+  <wada nazwa="Zespół Pataua">
+    <opis>Przykładowe skutki: niedorozwój umysłowy, 
+niezrośnięty otwór międzyprzedsionkowy w sercu, 
+wnętrostwo, szczelina w tęczówce, rozszczep wargi 
+(tzw. zajęcze usta).</opis>
+    <prawdopodobienstwa>
+      <prawd>0.0054</prawd>
+      <prawd>0.0124</prawd>
+      <prawd>0.0358</prawd>
+      <prawd>0.0487</prawd>
+      <prawd>0.0685</prawd>
+      <prawd>0.0694</prawd>
+      <prawd>0.0700</prawd>
+      <prawd>0.0725</prawd>
+      <prawd>0.0768</prawd>
+      <prawd>0.0865</prawd>
+      <prawd>0.0954</prawd>
+      <prawd>0.1254</prawd>
+      <prawd>0.1642</prawd>
+      <prawd>0.2584</prawd>
+      <prawd>0.2114</prawd>
+      <prawd>0.2845</prawd>
+      <prawd>0.3</prawd>
+      <prawd>0.3584</prawd>
+      <prawd>0.4785</prawd>
+      <prawd>0.5874</prawd>
+      <prawd>0.6985</prawd>
+      <prawd>0.7854</prawd>
+      <prawd>0.8452</prawd>
+      <prawd>0.8954</prawd>
+      <prawd>0.9842</prawd>
+      <prawd>1.0351</prawd>
+      <prawd>1.12</prawd>
+      <prawd>1.358</prawd>
+      <prawd>1.5</prawd>
+      <prawd>1.7854</prawd>
+      <prawd>2.0012</prawd>
+    </prawdopodobienstwa>
+  </wada>
+  <wada nazwa="Zespół Turnera">
+    <opis>Osoby z tą chorobą posiadają na ciele 
+liczne znamiona barwnikowe. Charakteryzują 
+się również niższym wzrostem, szerokim karkiem 
+i niedorozwojem drugorzędowych cech płciowych 
+(niewykształcone piersi, brak owłosienia łonowego) 
+są bezpłodne.</opis>
+    <prawdopodobienstwa>
+      <prawd>0.0102</prawd>
+      <prawd>0.0500</prawd>
+      <prawd>0.78542</prawd>
+      <prawd>0.9584</prawd>
+      <prawd>1.2</prawd>
+      <prawd>1.3542</prawd>
+      <prawd>1.45</prawd>
+      <prawd>1.5</prawd>
+      <prawd>1.758</prawd>
+      <prawd>1.98</prawd>
+      <prawd>1.9854</prawd>
+      <prawd>2.5478</prawd>
+      <prawd>2.6985</prawd>
+      <prawd>2.8652</prawd>
+      <prawd>2.9754</prawd>
+      <prawd>3.0002</prawd>
+      <prawd>3.001</prawd>
+      <prawd>3.02</prawd>
+      <prawd>3.058</prawd>
+      <prawd>3.0782</prawd>
+      <prawd>3.1</prawd>
+      <prawd>3.25</prawd>
+      <prawd>3.581</prawd>
+      <prawd>3.586</prawd>
+      <prawd>3.8752</prawd>
+      <prawd>3.9887</prawd>
+      <prawd>4.0001</prawd>
+      <prawd>4.0014</prawd>
+      <prawd>4.005</prawd>
+      <prawd>4.02</prawd>
+      <prawd>4.022</prawd>
+    </prawdopodobienstwa>
+  </wada>  
+  <wada nazwa="Zespół Klinefeltera">
+    <opis>Charakteryzuje ją nienormalne wydłużenie członów, 
+brak lub ograniczony rozwój drugorzędowych cech 
+płciowych oraz niepłodność spowodowana brakiem spermatogenezy.</opis>
+    <prawdopodobienstwa>
+      <prawd>0.0654</prawd>
+      <prawd>0.0654</prawd>
+      <prawd>0.0654</prawd>
+      <prawd>0.0654</prawd>
+      <prawd>0.0654</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.11</prawd>
+      <prawd>0.1256</prawd>
+      <prawd>0.1464</prawd>
+      <prawd>0.1742</prawd>
+      <prawd>0.211</prawd>
+      <prawd>0.2604</prawd>
+      <prawd>0.3257</prawd>
+      <prawd>0.4132</prawd>
+      <prawd>0.5291</prawd>
+      <prawd>0.6849</prawd>
+      <prawd>0.8929</prawd>
+      <prawd>1.1765</prawd>
+      <prawd>1.5385</prawd>
+      <prawd>2.0408</prawd>
+      <prawd>2.7027</prawd>
+      <prawd>3.5714</prawd>
+      <prawd>2.0154</prawd>
+      <prawd>2.6854</prawd>
+      <prawd>2.1</prawd>
+      <prawd>2.685</prawd>
+      <prawd>2.2478</prawd>
+    </prawdopodobienstwa>
+  </wada>
+  <wada nazwa="Trisomia chromosomu X">
+    <opis>Budowa fizyczna zasadniczo bez zmian, jednak 
+jest obniżona płodność. Uczeni nie są zgodni co 
+do zdolności umysłowych.</opis>
+    <prawdopodobienstwa>
+      <prawd>0.0654</prawd>
+      <prawd>0.0654</prawd>
+      <prawd>0.0654</prawd>
+      <prawd>0.0654</prawd>
+      <prawd>0.0654</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.11</prawd>
+      <prawd>0.1256</prawd>
+      <prawd>0.1464</prawd>
+      <prawd>0.1742</prawd>
+      <prawd>0.211</prawd>
+      <prawd>0.2604</prawd>
+      <prawd>0.3257</prawd>
+      <prawd>0.4132</prawd>
+      <prawd>0.5291</prawd>
+      <prawd>0.6849</prawd>
+      <prawd>0.8929</prawd>
+      <prawd>1.1765</prawd>
+      <prawd>1.5385</prawd>
+      <prawd>2.0408</prawd>
+      <prawd>2.7027</prawd>
+      <prawd>3.5714</prawd>
+      <prawd>3.254</prawd>
+      <prawd>3.5874</prawd>
+      <prawd>3.1</prawd>
+      <prawd>3.258</prawd>
+      <prawd>3.5478</prawd>
+    </prawdopodobienstwa>
+  </wada>
+  <wada nazwa="Zespół kociego krzyku">
+    <opis>Objawy: niepełnosprawność intelektualna 
+(od lekkiej do głębokiej), jasna karnacja, płaczliwość, 
+po porodzie specyficzny płacz dziecka 
+przypominający miauczenie kota.</opis>
+    <prawdopodobienstwa>
+      <prawd>0.0654</prawd>
+      <prawd>0.0654</prawd>
+      <prawd>0.0654</prawd>
+      <prawd>0.0654</prawd>
+      <prawd>0.0654</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.11</prawd>
+      <prawd>0.1256</prawd>
+      <prawd>0.1464</prawd>
+      <prawd>0.1742</prawd>
+      <prawd>0.211</prawd>
+      <prawd>0.2604</prawd>
+      <prawd>0.3257</prawd>
+      <prawd>0.4132</prawd>
+      <prawd>0.5291</prawd>
+      <prawd>0.6849</prawd>
+      <prawd>0.8929</prawd>
+      <prawd>1.1765</prawd>
+      <prawd>1.5385</prawd>
+      <prawd>2.0408</prawd>
+      <prawd>2.7027</prawd>
+      <prawd>3.5714</prawd>
+      <prawd>2.145</prawd>
+      <prawd>2.4157</prawd>
+      <prawd>3.521</prawd>
+      <prawd>1.254</prawd>
+      <prawd>0.254</prawd>
+    </prawdopodobienstwa>
+  </wada>
+  <wada nazwa="Zespół Wolfa-Hirschhorna">
+    <opis>Objawia się szczególnym wyglądem twarzy, nierozwojem żuchwy, 
+zahamowaniem wzrostu, zaburzeniami rozwoju 
+umysłowego oraz wrodzonymi wadami serca.</opis>
+    <prawdopodobienstwa>
+      <prawd>0.0654</prawd>
+      <prawd>0.0654</prawd>
+      <prawd>0.0654</prawd>
+      <prawd>0.0654</prawd>
+      <prawd>0.0654</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.11</prawd>
+      <prawd>0.1256</prawd>
+      <prawd>0.1464</prawd>
+      <prawd>0.1742</prawd>
+      <prawd>0.211</prawd>
+      <prawd>0.2604</prawd>
+      <prawd>0.3257</prawd>
+      <prawd>0.4132</prawd>
+      <prawd>0.5291</prawd>
+      <prawd>0.6849</prawd>
+      <prawd>0.8929</prawd>
+      <prawd>1.1765</prawd>
+      <prawd>1.5385</prawd>
+      <prawd>2.0408</prawd>
+      <prawd>2.7027</prawd>
+      <prawd>3.5714</prawd>
+      <prawd>2.125</prawd>
+      <prawd>2.125</prawd>
+      <prawd>3.15</prawd>
+      <prawd>3.254</prawd>
+      <prawd>3.2541</prawd>
+    </prawdopodobienstwa>
+  </wada>
+  <wada nazwa="Zespół Angelmana">
+    <opis>Zespół Angelmana charakteryzują głównie objawy 
+neurologiczne: niepełnosprawność intelektualna, 
+ataksja, padaczka (zwykle ujawniająca się przed 
+ukończeniem 3. roku życia), charakterystyczne 
+ruchy przypominające marionetkę i napady śmiechu bez powodu.</opis>
+    <prawdopodobienstwa>
+      <prawd>0.0654</prawd>
+      <prawd>0.0654</prawd>
+      <prawd>0.0654</prawd>
+      <prawd>0.0654</prawd>
+      <prawd>0.0654</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.11</prawd>
+      <prawd>0.1256</prawd>
+      <prawd>0.1464</prawd>
+      <prawd>0.1742</prawd>
+      <prawd>0.211</prawd>
+      <prawd>0.2604</prawd>
+      <prawd>0.3257</prawd>
+      <prawd>0.4132</prawd>
+      <prawd>0.5291</prawd>
+      <prawd>0.6849</prawd>
+      <prawd>0.8929</prawd>
+      <prawd>1.1765</prawd>
+      <prawd>1.5385</prawd>
+      <prawd>2.0408</prawd>
+      <prawd>2.7027</prawd>
+      <prawd>3.5714</prawd>
+      <prawd>2.541</prawd>
+      <prawd>2.154</prawd>
+      <prawd>3.254</prawd>
+      <prawd>1.54</prawd>
+      <prawd>3.2478</prawd>
+    </prawdopodobienstwa>
+  </wada>
+  <wada nazwa="Zespół Pradera–Williego">
+    <opis>Charakterystyczne objawy w zespole Pradera-Williego to
+obniżenie napięcia mięśni, niedorozwój narządów płciowych, 
+nadmierne łaknienie, zmieniona budowa (cechy dysmorficzne) twarzy, 
+małe dłonie i stopy (akromikria), zwężające się ku końcom 
+palce, zez zbieżny.</opis>
+    <prawdopodobienstwa>
+      <prawd>0.0654</prawd>
+      <prawd>0.0654</prawd>
+      <prawd>0.0654</prawd>
+      <prawd>0.0654</prawd>
+      <prawd>0.0654</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.11</prawd>
+      <prawd>0.1256</prawd>
+      <prawd>0.1464</prawd>
+      <prawd>0.1742</prawd>
+      <prawd>0.211</prawd>
+      <prawd>0.2604</prawd>
+      <prawd>0.3257</prawd>
+      <prawd>0.4132</prawd>
+      <prawd>0.5291</prawd>
+      <prawd>0.6849</prawd>
+      <prawd>0.8929</prawd>
+      <prawd>1.1765</prawd>
+      <prawd>1.5385</prawd>
+      <prawd>2.0408</prawd>
+      <prawd>2.7027</prawd>
+      <prawd>3.5714</prawd>
+      <prawd>3.564</prawd>
+      <prawd>2.5863</prawd>
+      <prawd>3.25</prawd>
+      <prawd>2.145</prawd>
+      <prawd>3.245</prawd>
+    </prawdopodobienstwa>
+  </wada>
+  <wada nazwa="Zespół Di George'a">
+    <opis>Objawy są zmienne i obejmują wrodzone wady serca, zaburzenia rozwoju podniebienia, 
+trudności w uczeniu, pierwotny niedobór odporności, hipokalcemię, wrodzone wady nerek, 
+trudności z karmieniem, zwiększone ryzyko zachorowania na choroby psychiczne.</opis>
+    <prawdopodobienstwa>
+      <prawd>0.0654</prawd>
+      <prawd>0.0654</prawd>
+      <prawd>0.0654</prawd>
+      <prawd>0.0654</prawd>
+      <prawd>0.0654</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.11</prawd>
+      <prawd>0.1256</prawd>
+      <prawd>0.1464</prawd>
+      <prawd>0.1742</prawd>
+      <prawd>0.211</prawd>
+      <prawd>0.2604</prawd>
+      <prawd>0.3257</prawd>
+      <prawd>0.4132</prawd>
+      <prawd>0.5291</prawd>
+      <prawd>0.6849</prawd>
+      <prawd>0.8929</prawd>
+      <prawd>1.1765</prawd>
+      <prawd>1.5385</prawd>
+      <prawd>2.0408</prawd>
+      <prawd>2.7027</prawd>
+      <prawd>3.5714</prawd>
+      <prawd>2.1</prawd>
+      <prawd>3.254</prawd>
+      <prawd>3.251</prawd>
+      <prawd>1.245</prawd>
+      <prawd>3.587</prawd>
+    </prawdopodobienstwa>
+  </wada>
+  <wada nazwa="Zespół Williamsa">
+    <opis>Szczególną cechą wyglądu osób dotkniętych syndromem Williamsa 
+jest charakterystyczna dysmorfia twarzy – tzw. "twarz elfa". 
+Osoby dotknięte zespołem Williamsa mogą mieć intelekt mieszczący 
+się w szerokich granicach IQ od 20 do 106. Ludzie dotknięci 
+zespołem Williamsa charakteryzują się tzw. "mową koktajlową" – zdolności 
+językowe są najczęściej obniżone w zakresie semantyki, morfologii, 
+fonologii, ale nie słownictwa. Jest to łatwo zauważalne dla otoczenia, z 
+powodu bogatego słownictwa używanemu przez dzieci dotkniętych tym zespołem. 
+Prawdopodobnie wynika to z połączenia dobrej pamięci słuchowej i 
+trudności z przetwarzaniem języka, co prowadzi do zapamiętywania 
+języka w postaci gotowych zwrotów.</opis>
+    <prawdopodobienstwa>
+      <prawd>0.0654</prawd>
+      <prawd>0.0654</prawd>
+      <prawd>0.0654</prawd>
+      <prawd>0.0654</prawd>
+      <prawd>0.0654</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.11</prawd>
+      <prawd>0.1256</prawd>
+      <prawd>0.1464</prawd>
+      <prawd>0.1742</prawd>
+      <prawd>0.211</prawd>
+      <prawd>0.2604</prawd>
+      <prawd>0.3257</prawd>
+      <prawd>0.4132</prawd>
+      <prawd>0.5291</prawd>
+      <prawd>0.6849</prawd>
+      <prawd>0.8929</prawd>
+      <prawd>1.1765</prawd>
+      <prawd>1.5385</prawd>
+      <prawd>2.0408</prawd>
+      <prawd>2.7027</prawd>
+      <prawd>3.5714</prawd>
+      <prawd>1.587</prawd>
+      <prawd>3.254</prawd>
+      <prawd>2.14</prawd>
+      <prawd>3.8547</prawd>
+      <prawd>2.125</prawd>
+    </prawdopodobienstwa>
+  </wada>
+  <wada nazwa="Mukowiscydoza">
+    <opis>Niewydolność układu oddechowego, polegająca na 
+wytwarzaniu dużych ilości śluzu o dużej lepkości, 
+co sprzyja powstawaniu infekcji. Towarzyszy mu 
+również niewydolność wątroby (u ok. 85% pacjentów).</opis>
+    <prawdopodobienstwa>
+      <prawd>0.0654</prawd>
+      <prawd>0.0654</prawd>
+      <prawd>0.0654</prawd>
+      <prawd>0.0654</prawd>
+      <prawd>0.0654</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.11</prawd>
+      <prawd>0.1256</prawd>
+      <prawd>0.1464</prawd>
+      <prawd>0.1742</prawd>
+      <prawd>0.211</prawd>
+      <prawd>0.2604</prawd>
+      <prawd>0.3257</prawd>
+      <prawd>0.4132</prawd>
+      <prawd>0.5291</prawd>
+      <prawd>0.6849</prawd>
+      <prawd>0.8929</prawd>
+      <prawd>1.1765</prawd>
+      <prawd>1.5385</prawd>
+      <prawd>2.0408</prawd>
+      <prawd>2.7027</prawd>
+      <prawd>3.5714</prawd>
+      <prawd>0.254</prawd>
+      <prawd>0.358</prawd>
+      <prawd>2.487</prawd>
+      <prawd>3.2545</prawd>
+      <prawd>2.5941</prawd>
+    </prawdopodobienstwa>
+  </wada>
+  <wada nazwa="Hemofilia">
+    <opis>Objawy to krwawienie wewnętrzne, rzadziej zewnętrzne.</opis>
+    <prawdopodobienstwa>
+      <prawd>0.0654</prawd>
+      <prawd>0.0654</prawd>
+      <prawd>0.0654</prawd>
+      <prawd>0.0654</prawd>
+      <prawd>0.0654</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.11</prawd>
+      <prawd>0.1256</prawd>
+      <prawd>0.1464</prawd>
+      <prawd>0.1742</prawd>
+      <prawd>0.211</prawd>
+      <prawd>0.2604</prawd>
+      <prawd>0.3257</prawd>
+      <prawd>0.4132</prawd>
+      <prawd>0.5291</prawd>
+      <prawd>0.6849</prawd>
+      <prawd>0.8929</prawd>
+      <prawd>1.1765</prawd>
+      <prawd>1.5385</prawd>
+      <prawd>2.0408</prawd>
+      <prawd>2.7027</prawd>
+      <prawd>3.5714</prawd>
+      <prawd>2.4578</prawd>
+      <prawd>0.214</prawd>
+      <prawd>0.325</prawd>
+      <prawd>3.0025</prawd>
+      <prawd>2.1</prawd>
+    </prawdopodobienstwa>
+  </wada>
+  <wada nazwa="Dystrofia mięśniowa">
+    <opis>Choroba ma charakter postępujący, początkowo zajmuje mięśnie 
+szkieletowe, potem także mięsień sercowy – prowadząc do 
+kardiomiopatii. Pierwsze objawy występują w wieku 3–8 lat. 
+Obejmują opóźniony rozwój ruchowy, kaczkowaty chód i kłopoty 
+z bieganiem oraz chodzeniem po schodach. Chorzy przy 
+wstawaniu pomagają sobie rękami (objaw Gowersa).</opis>
+    <prawdopodobienstwa>
+      <prawd>0.0654</prawd>
+      <prawd>0.0654</prawd>
+      <prawd>0.0654</prawd>
+      <prawd>0.0654</prawd>
+      <prawd>0.0654</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.11</prawd>
+      <prawd>0.1256</prawd>
+      <prawd>0.1464</prawd>
+      <prawd>0.1742</prawd>
+      <prawd>0.211</prawd>
+      <prawd>0.2604</prawd>
+      <prawd>0.3257</prawd>
+      <prawd>0.4132</prawd>
+      <prawd>0.5291</prawd>
+      <prawd>0.6849</prawd>
+      <prawd>0.8929</prawd>
+      <prawd>1.1765</prawd>
+      <prawd>1.5385</prawd>
+      <prawd>2.0408</prawd>
+      <prawd>2.7027</prawd>
+      <prawd>3.5714</prawd>
+      <prawd>2.458</prawd>
+      <prawd>3.257</prawd>
+      <prawd>0.5861</prawd>
+      <prawd>0.321</prawd>
+      <prawd>2.3</prawd>
+    </prawdopodobienstwa>
+  </wada>
+  <wada nazwa="Anemia sierpowata">
+    <opis>Choroba dziedziczy się w sposób autosomalny (nie jest 
+sprzężona z płcią i częściowo recesywny – nosiciele 
+tylko jednej kopii wadliwego genu (heterozygoty) 
+zwykle nie mają objawów klinicznych, choć ich 
+erytrocyty zawierają ok. 40% HbS.</opis>
+    <prawdopodobienstwa>
+      <prawd>0.0654</prawd>
+      <prawd>0.0654</prawd>
+      <prawd>0.0654</prawd>
+      <prawd>0.0654</prawd>
+      <prawd>0.0654</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.11</prawd>
+      <prawd>0.1256</prawd>
+      <prawd>0.1464</prawd>
+      <prawd>0.1742</prawd>
+      <prawd>0.211</prawd>
+      <prawd>0.2604</prawd>
+      <prawd>0.3257</prawd>
+      <prawd>0.4132</prawd>
+      <prawd>0.5291</prawd>
+      <prawd>0.6849</prawd>
+      <prawd>0.8929</prawd>
+      <prawd>1.1765</prawd>
+      <prawd>1.5385</prawd>
+      <prawd>2.0408</prawd>
+      <prawd>2.7027</prawd>
+      <prawd>3.5714</prawd>
+      <prawd>2.154</prawd>
+      <prawd>0.14</prawd>
+      <prawd>0.748</prawd>
+      <prawd>2.365</prawd>
+      <prawd>3.5</prawd>
+    </prawdopodobienstwa>
+  </wada>
+  <wada nazwa="Zespół Retta">
+    <opis>Mutacja genu MECP2 na chromosomie X, dziedziczona jako cecha dominująca, 
+w większości przypadków letalna dla mężczyzn. Objawia się 
+zaburzeniami rozwoju psychoruchowego i wadami somatycznymi 
+(m.in. skoliozą).</opis>
+    <prawdopodobienstwa>
+      <prawd>0.0654</prawd>
+      <prawd>0.0654</prawd>
+      <prawd>0.0654</prawd>
+      <prawd>0.0654</prawd>
+      <prawd>0.0654</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.11</prawd>
+      <prawd>0.1256</prawd>
+      <prawd>0.1464</prawd>
+      <prawd>0.1742</prawd>
+      <prawd>0.211</prawd>
+      <prawd>0.2604</prawd>
+      <prawd>0.3257</prawd>
+      <prawd>0.4132</prawd>
+      <prawd>0.5291</prawd>
+      <prawd>0.6849</prawd>
+      <prawd>0.8929</prawd>
+      <prawd>1.1765</prawd>
+      <prawd>1.5385</prawd>
+      <prawd>2.0408</prawd>
+      <prawd>2.7027</prawd>
+      <prawd>3.5714</prawd>
+      <prawd>3.025</prawd>
+      <prawd>0.154</prawd>
+      <prawd>0.658</prawd>
+      <prawd>1.542</prawd>
+      <prawd>1.3658</prawd>
+    </prawdopodobienstwa>
+  </wada>
+  <wada nazwa="Alkaptonuria">
+    <opis>Alkaptonuria jest dziedziczona w sposób autosomalny recesywny 
+i charakteryzuje się wydalaniem z moczem dużych ilości kwasu 
+homogentyzynowego (ciemniejącego na powietrzu), niebieskawo-czarnym 
+zabarwieniem tkanki łącznej, (ochronoza) oraz zmianami 
+zwyrodnieniowymi stawów i kręgosłupa.</opis>
+    <prawdopodobienstwa>
+      <prawd>0.0654</prawd>
+      <prawd>0.0654</prawd>
+      <prawd>0.0654</prawd>
+      <prawd>0.0654</prawd>
+      <prawd>0.0654</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.11</prawd>
+      <prawd>0.1256</prawd>
+      <prawd>0.1464</prawd>
+      <prawd>0.1742</prawd>
+      <prawd>0.211</prawd>
+      <prawd>0.2604</prawd>
+      <prawd>0.3257</prawd>
+      <prawd>0.4132</prawd>
+      <prawd>0.5291</prawd>
+      <prawd>0.6849</prawd>
+      <prawd>0.8929</prawd>
+      <prawd>1.1765</prawd>
+      <prawd>1.5385</prawd>
+      <prawd>2.0408</prawd>
+      <prawd>2.7027</prawd>
+      <prawd>3.5714</prawd>
+      <prawd>0.125</prawd>
+      <prawd>0.3612</prawd>
+      <prawd>1.587</prawd>
+      <prawd>3.582</prawd>
+      <prawd>2.145</prawd>
+    </prawdopodobienstwa>
+  </wada>
+  <wada nazwa="Zespół łamliwego chromosomu X">
+    <opis>Jedna z najczęstszych przyczyn uwarunkowanego genetycznie 
+obniżenia poziomu rozwoju intelektualnego. Przyczyną jest 
+powielenie kodonu CGG w genie FMR1 na długim ramieniu 
+chromosomu X, upośledzające tworzenie synaps w mózgu.</opis>
+    <prawdopodobienstwa>
+      <prawd>0.0654</prawd>
+      <prawd>0.0654</prawd>
+      <prawd>0.0654</prawd>
+      <prawd>0.0654</prawd>
+      <prawd>0.0654</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.074</prawd>
+      <prawd>0.11</prawd>
+      <prawd>0.1256</prawd>
+      <prawd>0.1464</prawd>
+      <prawd>0.1742</prawd>
+      <prawd>0.211</prawd>
+      <prawd>0.2604</prawd>
+      <prawd>0.3257</prawd>
+      <prawd>0.4132</prawd>
+      <prawd>0.5291</prawd>
+      <prawd>0.6849</prawd>
+      <prawd>0.8929</prawd>
+      <prawd>1.1765</prawd>
+      <prawd>1.5385</prawd>
+      <prawd>2.0408</prawd>
+      <prawd>2.7027</prawd>
+      <prawd>3.5714</prawd>
+      <prawd>1.351</prawd>
+      <prawd>1.475</prawd>
+      <prawd>2.157</prawd>
+      <prawd>3.2689</prawd>
+      <prawd>1.4587</prawd>
+    </prawdopodobienstwa>
+  </wada>
 </wady>
-
-<testy>
-	<test id_test="0">
-        <nazwa>Test potrójny</nazwa>
-        <opis>tak sie wykonuje ten test</opis>
-        <koszt_ryzyka>0.239</koszt_ryzyka>
-        <czulosc>0.8</czulosc>
-        <swoistosc>0.75</swoistosc>
-    </test>
-	<test id_test="1">
-        <nazwa>Test poczwórny</nazwa>
-        <opis>tak sie wykonuje ten test</opis>
-        <koszt_ryzyka>0.133</koszt_ryzyka>
-        <czulosc>0.68</czulosc>
-        <swoistosc>0.75</swoistosc>
-    </test>
-	<test id_test="2">
-        <nazwa>AFP/badanie wolnej beta hCG</nazwa>
-        <opis>tak sie wykonuje ten test</opis>
-        <koszt_ryzyka>0.342</koszt_ryzyka>
-        <czulosc>0.77</czulosc>
-        <swoistosc>0.9</swoistosc>
-    </test>
-	<test id_test="3">
-        <nazwa>badanie USG</nazwa>
-        <opis>tak sie wykonuje ten test</opis>
-        <koszt_ryzyka>0.002</koszt_ryzyka>
-        <czulosc>0.55</czulosc>
-        <swoistosc>0.87</swoistosc>
-    </test>
-	<test id_test="4">
-        <nazwa>Testy biochemiczne</nazwa>
-        <opis>tak sie wykonuje ten test</opis>
-        <koszt_ryzyka>0.425</koszt_ryzyka>
-        <czulosc>0.82</czulosc>
-        <swoistosc>0.78</swoistosc>
-    </test>
-	<test id_test="5">
-        <nazwa>Przezierność karkowa/badanie wolnej hCG/PAPPA</nazwa>
-        <opis>tak sie wykonuje ten test</opis>
-        <koszt_ryzyka>0.395</koszt_ryzyka>
-        <czulosc>0.93</czulosc>
-        <swoistosc>0.62</swoistosc>
-    </test>
-</testy>

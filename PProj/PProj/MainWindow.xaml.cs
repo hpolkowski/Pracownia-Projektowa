@@ -25,25 +25,14 @@ namespace PProj
     {
         Wady lista = new Wady();
         List<Wada_dane> dane= new List<Wada_dane>();
-        FileDownloader downloader;
 
 
         //to będzie zmienione, dodamy pliki xml z serwera, stworzone do testów aplikacji
         public void uzupelnij()
-        {/*
-            String[] wady = { "Zespół Downa", "Zespół Edwardsa", "Zespół Patau", "Nieprawidłowości chromosomów płciowych", "Zespół Turnera", "Zespół Klinefeltera" };
-            double[][] prawdopodobienstwa_temp = new double[][] { 
-            new double[] { 0.0654, 0.0654, 0.0654,  0.0654,  0.0654, 0.0740, 0.0740, 0.0740, 0.0740, 0.0740, 0.1100, 0.1256, 0.1464, 0.1742, 0.2110, 0.2604, 0.3257, 0.4132, 0.5291, 0.6849, 0.8929, 1.1765, 1.5385, 2.0408, 2.7027, 3.5714, -1, -1, -1, -1, -1 }, 
-            new double[] { -1, -1, -1, -1, -1, 0.07, 0.07, 0.07, 0.07, 0.07, 0.1, 0.11, 0.12, 0.14, 0.17, 0.21, 0.26, 0.35, 0.43, 0.6, 0.8, 1.3, 1.401, -1, -1, -1, -1, -1, -1, -1, -1 }, 
-            new double[] { 0.01, 0.01, 0.01, 0.01, 0.01, 0.02, 0.02, 0.02, 0.02, 0.02, 0.03, 0.035, 0.036, 0.04, 0.048, 0.052, 0.055, 0.12, 0.14, 0.18, 0.25, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1 }, 
-            new double[] { -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1 }, 
-            new double[] { -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1 }, 
-            new double[] { -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1 }
-            };
-         */
+        {
             double[][] prawdopodobienstwa = new double[100][];
-            XDocument xml = XDocument.Load("baza_temp.xml");
             int k = 0;
+            XDocument xml = XDocument.Load("baza.xml");
             foreach (XElement element in xml.Root.Elements("wada"))
             {
                 int j = 0;
@@ -81,17 +70,29 @@ namespace PProj
             */
         }
 
+        String pobierz_date()
+        {
+            String dataPliku = "2015-04-20";
+            XDocument xml = XDocument.Load("baza.xml");
+            XElement element_data = xml.Root;
+            dataPliku = element_data.Attribute("data").Value.ToString();
+            return dataPliku;
+        }
         public MainWindow()
         {
             InitializeComponent();
             listBox.ItemsSource = lista;
+            FileDownloader downloader;
             downloader = new FileDownloader("212.33.90.100", "wi90302", "KRtq97Cr");
-            uzupelnij();
 // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 //                            Change first param to date readed from local file
 // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++            
-            //if (downloader.shouldDownloadUpdate("2015-04-20", "plody/baza.xml"))
+            if (downloader.shouldDownloadUpdate(pobierz_date(), "plody/baza.xml")) {
                 //downloader.download("plody/baza.xml", "baza.xml");
+                Debug.Print("--Pobieram nowy plik z danymi. Stary plik z dnia: ");
+                Debug.Print(pobierz_date());
+            }
+            uzupelnij();
         }
 
         private void button_Nowy_Click(object sender, RoutedEventArgs e)

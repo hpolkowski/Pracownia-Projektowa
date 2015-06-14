@@ -89,7 +89,7 @@ namespace PProj
 // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++            
             if (downloader.shouldDownloadUpdate(pobierz_date(), "/home/student/plody/baza.xml"))
             {
-                //downloader.download("plody/baza.xml", "baza.xml");
+                downloader.download("plody/baza.xml", "baza.xml");
                 Debug.Print("--Pobieram nowy plik z danymi. Stary plik z dnia: ");
                 Debug.Print(pobierz_date());
             }

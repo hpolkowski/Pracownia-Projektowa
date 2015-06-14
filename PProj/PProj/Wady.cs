@@ -10,16 +10,19 @@ namespace PProj
     public class Wada
     {
         public String Nazwa_wady { get; set; }
+        public String Opis_wady { get; set; }
         public double Prawdopodobienstwo_wady { get; set; }
 
-        public Wada(String nazwa_wady, double prawdopodobienstwo_wady)
+        public Wada(String nazwa_wady, String opis_wady, double prawdopodobienstwo_wady)
         {
             this.Nazwa_wady = nazwa_wady;
+            this.Opis_wady = opis_wady;
             this.Prawdopodobienstwo_wady = prawdopodobienstwo_wady;
         }
         public Wada(Wada_dane wada, int wiek)
         {
             this.Nazwa_wady = wada.Nazwa_wady;
+            this.Opis_wady = wada.Opis_wady;
             this.Prawdopodobienstwo_wady = wada.Prawdopodobienstwa_wady[wiek-20];
         }
     }
@@ -30,9 +33,10 @@ namespace PProj
         public String Opis_wady { get; set; }
         public List<double> Prawdopodobienstwa_wady { get; set; }
 
-        public Wada_dane(String nazwa_wady, List<double> prawdopodobienstwa_wady)
+        public Wada_dane(String nazwa_wady, String opis_wady, List<double> prawdopodobienstwa_wady)
         {
             this.Nazwa_wady = nazwa_wady;
+            this.Opis_wady = opis_wady;
             this.Prawdopodobienstwa_wady = prawdopodobienstwa_wady;
         }
     }

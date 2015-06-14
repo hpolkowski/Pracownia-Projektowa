@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using Tamir.SharpSsh;
@@ -39,6 +40,7 @@ namespace PProj
             mySshExec.Connect();
             mySshExec.RunCommand(cmdToExec, ref stdOut, ref stdErr);
             mySshExec.Close();
+            //Debug.Print("Data pliku na serwerze " + stdOut);
             return stdOut;
 
         }
@@ -46,7 +48,7 @@ namespace PProj
         // return true if remote db was modified
         public bool shouldDownloadUpdate(String localDate, String serverPath)
         {
-            if (String.Compare(localDate, getMeLastModificationTime(serverPath)) == 0)
+            if (String.Compare(localDate, getMeLastModificationTime(serverPath)) >= 0)
                 return false;
             else
                 return true;

@@ -87,7 +87,8 @@ namespace PProj
 // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 //                            Change first param to date readed from local file
 // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++            
-            if (downloader.shouldDownloadUpdate(pobierz_date(), "plody/baza.xml")) {
+            if (downloader.shouldDownloadUpdate(pobierz_date(), "/home/student/plody/baza.xml"))
+            {
                 //downloader.download("plody/baza.xml", "baza.xml");
                 Debug.Print("--Pobieram nowy plik z danymi. Stary plik z dnia: ");
                 Debug.Print(pobierz_date());

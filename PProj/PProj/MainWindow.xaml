@@ -10,7 +10,7 @@
             <ListBox.ItemTemplate>
                 <DataTemplate>
                     <StackPanel Orientation="Horizontal">
-                        <TextBlock Text="{Binding Nazwa_wady}" Width="290" ToolTip="{Binding Opis_wady}"/>
+                        <TextBlock Text="{Binding Nazwa_wady}" Width="260" ToolTip="{Binding Opis_wady}"/>
                         <TextBlock Text="{Binding Prawdopodobienstwo_wady}" ToolTip="{Binding Opis_wady}"/>
                         <TextBlock Text="%" />
                     </StackPanel>
@@ -19,6 +19,6 @@
         </ListBox>
         <Button Content="Dodaj test" Height="23" HorizontalAlignment="Right" Margin="0,426,12,0" Name="button1" VerticalAlignment="Top" Width="100" Click="button_Nowy_Click" />
         <Button Content="Zamknij" Height="23" HorizontalAlignment="Left" Margin="12,426,0,0" Name="button2" VerticalAlignment="Top" Width="100" Click="button_Zamknij_Click" />
-        <Label Content="w przedziale od 20 do 45" HorizontalAlignment="Left" Margin="181,10,0,0" VerticalAlignment="Top"/>
+        <Label Content="w przedziale od 15 do 45" HorizontalAlignment="Left" Margin="181,10,0,0" VerticalAlignment="Top"/>
     </Grid>
 </Window>

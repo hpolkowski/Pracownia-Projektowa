@@ -41,7 +41,6 @@ namespace PProj
             new double[] { -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1 }
             };
          */
-            List<List<double>> oko;
             double[][] prawdopodobienstwa = new double[100][];
             XDocument xml = XDocument.Load("baza_temp.xml");
             int k = 0;
@@ -114,7 +113,7 @@ namespace PProj
             lista.Clear();
             if (!int.TryParse(textBox_wiek.Text, out wiek))
                 return;
-            if (wiek < 20 || wiek > 45)
+            if (wiek < 15 || wiek > 45)
                 return;
             for (int i = 0; i < dane.Count; i++ )
                 lista_tmp.Add(new Wada(dane[i], wiek));

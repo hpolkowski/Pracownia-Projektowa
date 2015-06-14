@@ -23,7 +23,7 @@ namespace PProj
         {
             this.Nazwa_wady = wada.Nazwa_wady;
             this.Opis_wady = wada.Opis_wady;
-            this.Prawdopodobienstwo_wady = wada.Prawdopodobienstwa_wady[wiek-20];
+            this.Prawdopodobienstwo_wady = wada.Prawdopodobienstwa_wady[wiek-15];
         }
     }
 
